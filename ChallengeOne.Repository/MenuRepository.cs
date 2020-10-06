@@ -54,6 +54,5 @@ namespace ChallengeOneRepository
             bool deleteResult = _contentDirectory.Remove(existingContent);
             return deleteResult;
         }
-
     }
 }

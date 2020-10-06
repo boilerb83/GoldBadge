@@ -19,7 +19,7 @@ namespace ChallengeOneConsole
             RunMenu();
         }
 
-        public void RunMenu()   //MAIN CODE TO RUN    ////////need to do something with the list of ingredients also/////
+        public void RunMenu()   //MAIN CODE TO RUN    
         {
             bool continueToRun = true;
             while (continueToRun)
