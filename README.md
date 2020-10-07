@@ -101,9 +101,7 @@ What is the badge number to update? 12345
 
 What would you like to do?
 
-Remove a door
-Add a door
-> 1
+Remove a door OR Add a door
 
 Which door would you like to remove? A5
 Door removed.
