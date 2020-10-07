@@ -7,8 +7,8 @@
     <ProjectGuid>{BD6AE6D5-1EA7-4E53-A0A7-000929F2656D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ChallengeOne.Repository</RootNamespace>
-    <AssemblyName>ChallengeOne.Repository</AssemblyName>
+    <RootNamespace>ChallengeOneRepository</RootNamespace>
+    <AssemblyName>ChallengeOneRepository</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -41,7 +41,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Menu.cs" />
     <Compile Include="MenuRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

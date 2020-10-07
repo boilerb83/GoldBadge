@@ -26,6 +26,18 @@ namespace ChallengeThreeRepository
     {
          public Dictionary<int, List<string>> _contentDirectory = new Dictionary<int, List<string>>();
 
+        public List<string> GetDoorsByKey(int key)
+        {
+            foreach (KeyValuePair <int, List<string>> badge in _contentDirectory)
+            {
+                if (key == badge.Key)
+                {
+                    return badge.Value;
+                }
+            }
+            return default;
+        }
+
         //ADD BADGE
         public bool AddContentToDirectory(int badgeid, List<string> door)     //changed this to type List to bring in a list of strings
         {

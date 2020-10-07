@@ -1,6 +1,6 @@
-C:\ElevenFiftyProjects\GoldBadge\FINALCHALLENGE\Gold_Badge_Final_Challenge\ChallengeOne.Repository\bin\Debug\ChallengeOne.Repository.dll
-C:\ElevenFiftyProjects\GoldBadge\FINALCHALLENGE\Gold_Badge_Final_Challenge\ChallengeOne.Repository\bin\Debug\ChallengeOne.Repository.pdb
 C:\ElevenFiftyProjects\GoldBadge\FINALCHALLENGE\Gold_Badge_Final_Challenge\ChallengeOne.Repository\obj\Debug\ChallengeOneRepository.csprojAssemblyReference.cache
 C:\ElevenFiftyProjects\GoldBadge\FINALCHALLENGE\Gold_Badge_Final_Challenge\ChallengeOne.Repository\obj\Debug\ChallengeOneRepository.csproj.CoreCompileInputs.cache
-C:\ElevenFiftyProjects\GoldBadge\FINALCHALLENGE\Gold_Badge_Final_Challenge\ChallengeOne.Repository\obj\Debug\ChallengeOne.Repository.dll
-C:\ElevenFiftyProjects\GoldBadge\FINALCHALLENGE\Gold_Badge_Final_Challenge\ChallengeOne.Repository\obj\Debug\ChallengeOne.Repository.pdb
+C:\ElevenFiftyProjects\GoldBadge\FINALCHALLENGE\Gold_Badge_Final_Challenge\ChallengeOne.Repository\bin\Debug\ChallengeOneRepository.dll
+C:\ElevenFiftyProjects\GoldBadge\FINALCHALLENGE\Gold_Badge_Final_Challenge\ChallengeOne.Repository\bin\Debug\ChallengeOneRepository.pdb
+C:\ElevenFiftyProjects\GoldBadge\FINALCHALLENGE\Gold_Badge_Final_Challenge\ChallengeOne.Repository\obj\Debug\ChallengeOneRepository.dll
+C:\ElevenFiftyProjects\GoldBadge\FINALCHALLENGE\Gold_Badge_Final_Challenge\ChallengeOne.Repository\obj\Debug\ChallengeOneRepository.pdb

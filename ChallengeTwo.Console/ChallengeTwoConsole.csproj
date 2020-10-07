@@ -44,10 +44,21 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ChallengeTwoProgram.cs" />
+    <Compile Include="ProgramUI.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ChallengeOne.Console\ChallengeOneConsole.csproj">
+      <Project>{DDDC9640-EC1A-422C-8852-98BE7D220757}</Project>
+      <Name>ChallengeOneConsole</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ChallengeTwo.Repository\ChallengeTwoRepository.csproj">
+      <Project>{73896001-DEC2-4E07-9EF5-27481371B875}</Project>
+      <Name>ChallengeTwoRepository</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

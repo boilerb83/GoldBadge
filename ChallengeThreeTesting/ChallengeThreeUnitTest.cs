@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Security.Cryptography;
 using ChallengeThreeRepository;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
@@ -51,12 +52,27 @@ namespace ChallengeThreeTesting
             _badgeRepository.AddContentToDirectory(23, listOfDoors);
 
             //act//
-            bool act = _badgeRepository.DeleteBageItems(23);
+            bool act = _badgeRepository.DeleteBadgeItems(23);
+
+            //assert//
+            Assert.IsTrue(act);    
+        }
+
+        [TestMethod]
+        public void MyTestMethod()
+        {
+            //arrange//
+            List<string> listOfDoors = new List<string>();
+            listOfDoors.Add("a5");
+            _badgeRepository.AddContentToDirectory(23, listOfDoors);
+
+            //act//
+            List<string> list;
+            list = _badgeRepository.GetDoorsByKey(23);
+            bool act = list.Contains("a5");
 
             //assert//
             Assert.IsTrue(act);
-                
         }
-
     }
 }
