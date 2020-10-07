@@ -1,4 +1,4 @@
-"# GoldBadge" 
+"# GoldBadge" #
 #--------------------------Challenge #1 (CAFE CHALLENGE)-----------------------------
 Komodo Cafe
 
